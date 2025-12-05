@@ -24,6 +24,10 @@ https://github.com/dimdimdam/Katalon-CaseStudy-AutomationTest-Demoblaze
 🧪 Selenium — Swaglabs Automation
 https://github.com/dimdimdam/Automation-CaseStudy-Swaglabs-Selenium
 
+🧪 Katalon Studio — Mobile App Testing (TinyApk)
+https://github.com/dimdimdam/Mobile-Automation-TinyApp.git
+
+
 🔶 API Testing
 
 📌 Swagger Petstore API Testing — Postman
